@@ -1,0 +1,9 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+
+.idea
+out
+GUI Project 3 - SMS.iml
+vcs.xml
+.idea/*

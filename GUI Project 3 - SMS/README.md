@@ -4,3 +4,9 @@
 - Multithreading is used to simulate the real-time transmission of messages
 - GUI made using Swing Library
 - implementation of MVC concepts (Listeners, events, graphics/logic separation)
+
+<h1 align="center">
+  <div>
+    <img width="1000" src="https://raw.githubusercontent.com/MarosLodnipeguh/GUI-java-applications/master/GUI%20Project%203%20-%20SMS/sms.png" alt="" />
+  </div>
+</h1>

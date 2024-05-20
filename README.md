@@ -5,7 +5,7 @@
   NAI exercises solutions
 </h1>
 
-This repository contains solutions to the exercises for the GUI (Java GUI applications) course during studies on PJATK.
+This repository contains projects made for the GUI (Java GUI applications) course during studies on PJATK.
 
 ---
 
